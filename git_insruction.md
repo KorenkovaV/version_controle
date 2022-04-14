@@ -47,3 +47,5 @@ git config --global user.email "email@example.com"
 ```
 git checkout 2da35ee
 ```
+
+## 8. Игнорирование файлов
